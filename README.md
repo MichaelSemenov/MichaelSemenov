@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий sowtware engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я начинающий software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 - :telescope: Студент BSUIR
 
