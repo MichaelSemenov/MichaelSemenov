@@ -19,7 +19,7 @@
 
 ### 💻 Технологии:
 
-<div>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-</div>
+
 
 ---
 
