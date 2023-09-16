@@ -5,9 +5,6 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий sowtware engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :telescope: Студент BSUIR
 
@@ -37,11 +34,11 @@
 ### 🛠 Инструменты:
 
 <div>
-### 🛠 Инструменты:
-
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white">
+ <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white">
+</div>
+
 
 ---
 
