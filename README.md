@@ -34,7 +34,14 @@
 
 
 ---
+### 🛠 Инструменты:
 
+<div>
+### 🛠 Инструменты:
+
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-VS%20Code-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white">
 
 ---
 
